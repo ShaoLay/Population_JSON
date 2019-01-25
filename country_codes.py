@@ -13,6 +13,3 @@ def get_country_code(country_name):
     # 如果没有找到指定的国家, 就返回None
     return None
 
-print(get_country_code('Andorra'))
-print(get_country_code('United Arab Emirates'))
-print(get_country_code('Afghanistan'))
